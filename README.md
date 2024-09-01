@@ -1,0 +1,1 @@
+## This app is a simple student management system initially built with SQLite and not converted to mysql.
